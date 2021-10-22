@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.gitshowcase.com/stswilliams](https://www.gitshowcase.com/stswilliams)
 
-- 📫 How to reach me **stswilliams15@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stswilliams15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stswilliams15" height="30" width="40" /></a>
